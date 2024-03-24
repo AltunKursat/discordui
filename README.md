@@ -6,6 +6,8 @@ angular projesinde servisler klasörü altındaki servis içinde apiurl var. Bu 
 
 visual studio code'dan angular klasörünü açtıktan sonra terminali gitbash olarak açıp ng serve --o yazarak açabilirsiniz.
 
+localhosttan sonra yazılacak sayfa yolları:
+
 /homepage(verileri çekerek açar)
 
 /details(veriyi çekerek açar)

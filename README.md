@@ -5,3 +5,13 @@ visual studio api klasörünü visual studio içinden açın (asp.net ve web gel
 angular projesinde servisler klasörü altındaki servis içinde apiurl var. Bu urldeki port numarasını apiyi açtığımız visual studiodaki çıktı kısmından aldığımız sayı ile değiştirmelisiniz.
 
 visual studio code'dan angular klasörünü açtıktan sonra terminali gitbash olarak açıp ng serve --o yazarak açabilirsiniz.
+
+/homepage(verileri çekerek açar)
+
+/details(veriyi çekerek açar)
+
+/categories(işlevsiz)
+
+/login(işlevsiz)
+
+/register(işlevsiz)
